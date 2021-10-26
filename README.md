@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Kotlin.**
 
 - 📫 How to reach me **osmnskman@gmail.com**  
--  [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osmnskman/)
+-  [![Linkedin Badge](https://img.shields.io/badge/OsmanSekman-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osmnskman1/)
 
 ## :notes: GitHub Stats And Top Languages
 
