@@ -2,7 +2,7 @@
 <h3 align="left">Developer</h3>
 
 <h4 align="left">Languages and Tools:</h3><p align="left">
-<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" color: white;/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
