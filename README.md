@@ -5,7 +5,7 @@
 <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" ;/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" />
 
 <h4 align="left">Contact with me:</h3><p align="left">
