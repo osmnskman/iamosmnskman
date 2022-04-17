@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Selenium.**
 
-- 📫 How to reach me **osmnskman@gmail.com**  
+- 📫 How to reach me **osman@sekman.net**  
 -  [![Linkedin Badge](https://img.shields.io/badge/OsmanSekman-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osmansekman1/)
 
 ## :notes: GitHub Stats And Top Languages
