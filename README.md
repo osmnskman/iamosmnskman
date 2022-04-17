@@ -2,7 +2,7 @@
 <h3 align="center">Software QA Engineer from Istanbul/Turkey</h3>
 
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning **Selenium.**
 
 - 📫 How to reach me **osmnskman@gmail.com**  
 -  [![Linkedin Badge](https://img.shields.io/badge/OsmanSekman-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osmansekman1/)
