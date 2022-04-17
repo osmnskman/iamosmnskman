@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
-<h3 align="center">An Developer from Istanbul/Turkey</h3>
+<h3 align="center">Software QA Engineer from Istanbul/Turkey</h3>
 
 
 - 🌱 I’m currently learning **Kotlin.**
